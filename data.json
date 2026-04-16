@@ -18,16 +18,5 @@
   "m2_time": "7:00 AM",
   "m2_prize": "Booyah ₹100💸",
   "m2_link": "https://docs.google.com/forms/d/e/1FAIpQLSdKqGTXLhobLs9QWw9DLLfQHptpg6K-858ZHTbNHurljVEVCw/viewform",
-  "extra_matches": [
-    {
-      "image": "",
-      "title": "Pesk",
-      "status": "No",
-      "date": "",
-      "subtitle": "Syeu",
-      "time": "09",
-      "prize": "",
-      "link": ""
-    }
-  ]
+  "extra_matches": []
 }
