@@ -1,12 +1,11 @@
 {
+  "live_room_id": "Cool ",
+  "live_room_pass": "Brother ",
   "app_version": "1.0",
   "update_link": "https://xtournament-shankar.blogspot.com",
   "ad_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL49Tlzkxn_OqWZ3UlCPpl_mTqfwsjxEpWPoRd1pqRiKdxKxQy3U2eW156ryfVopUQdgHUX7sE6eY0C1B2NyMMG00jtSSfaYe4ssOMth3K_mYmF1uU_V6CZp9O89ISKfSgJLv0gzMQ5u7NLEQhXqS7aUaiijzIx3-DkU-q42vXTaWMDRqVNMY1Je856Y6b/s1600/1000064338.jpg",
   "ad_link": "https://whatsapp.com/channel/0029Vb6VZoY2975CVXcpZh2z",
   "notification_link": "",
-  "live_stream_link": "",
-  "instagram_link": "",
-  "prompt_link": "https://yshankar2002.blogspot.com/",
   "m1_image": "",
   "m1_room_id": "Wait...",
   "m1_room_pass": "Wait...",
@@ -14,9 +13,6 @@
   "m2_title": "SOLO-BARMUDA",
   "m2_status": "Upcoming ",
   "m2_date": "DATE : <b>02-June</b>",
-  "m2_subtitle": "5 Kill Me <b>₹10 REDEEM CODE</b>",
   "m2_time": "7:00 AM",
-  "m2_prize": "Booyah ₹100💸",
-  "m2_link": "https://docs.google.com/forms/d/e/1FAIpQLSdKqGTXLhobLs9QWw9DLLfQHptpg6K-858ZHTbNHurljVEVCw/viewform",
-  "extra_matches": []
+  "m2_prize": "Booyah ₹100💸"
 }
