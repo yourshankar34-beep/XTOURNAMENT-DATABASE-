@@ -1,6 +1,6 @@
 {
-  "live_room_id": "PELO",
-  "live_room_pass": "DHONA",
+  "live_room_id": "",
+  "live_room_pass": "",
   "app_version": "1.0",
   "update_link": "https://xtournament-shankar.blogspot.com",
   "ad_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL49Tlzkxn_OqWZ3UlCPpl_mTqfwsjxEpWPoRd1pqRiKdxKxQy3U2eW156ryfVopUQdgHUX7sE6eY0C1B2NyMMG00jtSSfaYe4ssOMth3K_mYmF1uU_V6CZp9O89ISKfSgJLv0gzMQ5u7NLEQhXqS7aUaiijzIx3-DkU-q42vXTaWMDRqVNMY1Je856Y6b/s1600/1000064338.jpg",
@@ -18,7 +18,7 @@
   "m2_date": "",
   "m2_subtitle": "",
   "m2_time": "",
-  "m2_prize": "₹10💸",
+  "m2_prize": "₹100💸",
   "m2_link": "",
   "extra_matches": []
 }
