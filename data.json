@@ -1,10 +1,24 @@
 {
-  "live_room_id": "Rozi",
-  "live_room_pass": "Ssee",
+  "live_room_id": "2323",
+  "live_room_pass": "444",
   "app_version": "1.0",
   "update_link": "https://xtournament-shankar.blogspot.com",
+  "ad_image": "",
+  "ad_link": "",
   "notification_link": "",
+  "live_stream_link": "",
+  "instagram_link": "",
+  "prompt_link": "",
   "m1_image": "",
   "m1_room_id": "Wait...",
-  "m1_room_pass": "Wait..."
+  "m1_room_pass": "Wait...",
+  "m2_image": "",
+  "m2_title": "",
+  "m2_status": "",
+  "m2_date": "",
+  "m2_subtitle": "",
+  "m2_time": "",
+  "m2_prize": "",
+  "m2_link": "",
+  "extra_matches": []
 }
